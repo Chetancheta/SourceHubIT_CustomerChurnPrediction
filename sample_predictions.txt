@@ -1,0 +1,5 @@
+Customer 1: Churn
+Customer 2: Not Churn
+Customer 3: Not Churn
+Customer 4: Churn
+Customer 5: Not Churn
